@@ -1,0 +1,641 @@
+[
+  {
+    "id": "rock_large_1",
+    "category": "rock",
+    "src": "/assets/nature/rock_large_1.png",
+    "width": 140,
+    "height": 84,
+    "anchorX": 70.0,
+    "anchorY": 83.0
+  },
+  {
+    "id": "rock_large_2",
+    "category": "rock",
+    "src": "/assets/nature/rock_large_2.png",
+    "width": 117,
+    "height": 85,
+    "anchorX": 58.5,
+    "anchorY": 84.0
+  },
+  {
+    "id": "rock_large_3",
+    "category": "rock",
+    "src": "/assets/nature/rock_large_3.png",
+    "width": 110,
+    "height": 77,
+    "anchorX": 55.0,
+    "anchorY": 76.0
+  },
+  {
+    "id": "rock_large_4",
+    "category": "rock",
+    "src": "/assets/nature/rock_large_4.png",
+    "width": 103,
+    "height": 64,
+    "anchorX": 51.5,
+    "anchorY": 63.0
+  },
+  {
+    "id": "rock_medium_1",
+    "category": "rock",
+    "src": "/assets/nature/rock_medium_1.png",
+    "width": 82,
+    "height": 47,
+    "anchorX": 41.0,
+    "anchorY": 46.0
+  },
+  {
+    "id": "rock_medium_2",
+    "category": "rock",
+    "src": "/assets/nature/rock_medium_2.png",
+    "width": 90,
+    "height": 53,
+    "anchorX": 45.0,
+    "anchorY": 52.0
+  },
+  {
+    "id": "rock_medium_3",
+    "category": "rock",
+    "src": "/assets/nature/rock_medium_3.png",
+    "width": 65,
+    "height": 40,
+    "anchorX": 32.5,
+    "anchorY": 39.0
+  },
+  {
+    "id": "pebble_1",
+    "category": "pebble",
+    "src": "/assets/nature/pebble_1.png",
+    "width": 40,
+    "height": 29,
+    "anchorX": 20.0,
+    "anchorY": 28.0
+  },
+  {
+    "id": "pebble_2",
+    "category": "pebble",
+    "src": "/assets/nature/pebble_2.png",
+    "width": 38,
+    "height": 23,
+    "anchorX": 19.0,
+    "anchorY": 22.0
+  },
+  {
+    "id": "pebble_3",
+    "category": "pebble",
+    "src": "/assets/nature/pebble_3.png",
+    "width": 32,
+    "height": 17,
+    "anchorX": 16.0,
+    "anchorY": 16.0
+  },
+  {
+    "id": "pebble_4",
+    "category": "pebble",
+    "src": "/assets/nature/pebble_4.png",
+    "width": 30,
+    "height": 19,
+    "anchorX": 15.0,
+    "anchorY": 18.0
+  },
+  {
+    "id": "pebble_5",
+    "category": "pebble",
+    "src": "/assets/nature/pebble_5.png",
+    "width": 30,
+    "height": 17,
+    "anchorX": 15.0,
+    "anchorY": 16.0
+  },
+  {
+    "id": "pebble_6",
+    "category": "pebble",
+    "src": "/assets/nature/pebble_6.png",
+    "width": 22,
+    "height": 16,
+    "anchorX": 11.0,
+    "anchorY": 15.0
+  },
+  {
+    "id": "pebble_7",
+    "category": "pebble",
+    "src": "/assets/nature/pebble_7.png",
+    "width": 15,
+    "height": 11,
+    "anchorX": 7.5,
+    "anchorY": 10.0
+  },
+  {
+    "id": "mushroom_red_1",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_red_1.png",
+    "width": 67,
+    "height": 86,
+    "anchorX": 33.5,
+    "anchorY": 85.0
+  },
+  {
+    "id": "mushroom_red_2",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_red_2.png",
+    "width": 45,
+    "height": 72,
+    "anchorX": 22.5,
+    "anchorY": 71.0
+  },
+  {
+    "id": "mushroom_red_3",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_red_3.png",
+    "width": 45,
+    "height": 62,
+    "anchorX": 22.5,
+    "anchorY": 61.0
+  },
+  {
+    "id": "mushroom_brown_1",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_brown_1.png",
+    "width": 80,
+    "height": 68,
+    "anchorX": 40.0,
+    "anchorY": 67.0
+  },
+  {
+    "id": "mushroom_chanterelle",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_chanterelle.png",
+    "width": 75,
+    "height": 65,
+    "anchorX": 37.5,
+    "anchorY": 64.0
+  },
+  {
+    "id": "mushroom_brown_small",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_brown_small.png",
+    "width": 50,
+    "height": 52,
+    "anchorX": 25.0,
+    "anchorY": 51.0
+  },
+  {
+    "id": "mushroom_white",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_white.png",
+    "width": 80,
+    "height": 72,
+    "anchorX": 40.0,
+    "anchorY": 71.0
+  },
+  {
+    "id": "mushroom_purple",
+    "category": "mushroom",
+    "src": "/assets/nature/mushroom_purple.png",
+    "width": 75,
+    "height": 71,
+    "anchorX": 37.5,
+    "anchorY": 70.0
+  },
+  {
+    "id": "bush_leafy",
+    "category": "bush",
+    "src": "/assets/nature/bush_leafy.png",
+    "width": 53,
+    "height": 61,
+    "anchorX": 26.5,
+    "anchorY": 60.0
+  },
+  {
+    "id": "bush_grassy",
+    "category": "bush",
+    "src": "/assets/nature/bush_grassy.png",
+    "width": 50,
+    "height": 57,
+    "anchorX": 25.0,
+    "anchorY": 56.0
+  },
+  {
+    "id": "plant_daisy",
+    "category": "plant",
+    "src": "/assets/nature/plant_daisy.png",
+    "width": 55,
+    "height": 64,
+    "anchorX": 27.5,
+    "anchorY": 63.0
+  },
+  {
+    "id": "bush_berry",
+    "category": "bush",
+    "src": "/assets/nature/bush_berry.png",
+    "width": 55,
+    "height": 67,
+    "anchorX": 27.5,
+    "anchorY": 66.0
+  },
+  {
+    "id": "plant_fern",
+    "category": "plant",
+    "src": "/assets/nature/plant_fern.png",
+    "width": 65,
+    "height": 53,
+    "anchorX": 32.5,
+    "anchorY": 52.0
+  },
+  {
+    "id": "plant_clover",
+    "category": "plant",
+    "src": "/assets/nature/plant_clover.png",
+    "width": 45,
+    "height": 57,
+    "anchorX": 22.5,
+    "anchorY": 56.0
+  },
+  {
+    "id": "leaf_green",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_green.png",
+    "width": 39,
+    "height": 56,
+    "anchorX": 19.5,
+    "anchorY": 55.0
+  },
+  {
+    "id": "leaf_golden",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_golden.png",
+    "width": 45,
+    "height": 48,
+    "anchorX": 22.5,
+    "anchorY": 47.0
+  },
+  {
+    "id": "leaf_oak",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_oak.png",
+    "width": 39,
+    "height": 48,
+    "anchorX": 19.5,
+    "anchorY": 47.0
+  },
+  {
+    "id": "leaf_maple",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_maple.png",
+    "width": 50,
+    "height": 56,
+    "anchorX": 25.0,
+    "anchorY": 55.0
+  },
+  {
+    "id": "leaf_elm",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_elm.png",
+    "width": 55,
+    "height": 50,
+    "anchorX": 27.5,
+    "anchorY": 49.0
+  },
+  {
+    "id": "leaf_willow",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_willow.png",
+    "width": 36,
+    "height": 54,
+    "anchorX": 18.0,
+    "anchorY": 53.0
+  },
+  {
+    "id": "leaf_ivy",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_ivy.png",
+    "width": 48,
+    "height": 48,
+    "anchorX": 24.0,
+    "anchorY": 47.0
+  },
+  {
+    "id": "leaf_fern",
+    "category": "leaf",
+    "src": "/assets/nature/leaf_fern.png",
+    "width": 55,
+    "height": 60,
+    "anchorX": 27.5,
+    "anchorY": 59.0
+  },
+  {
+    "id": "flower_daisy",
+    "category": "flower",
+    "src": "/assets/nature/flower_daisy.png",
+    "width": 21,
+    "height": 53,
+    "anchorX": 10.5,
+    "anchorY": 52.0
+  },
+  {
+    "id": "flower_buttercup",
+    "category": "flower",
+    "src": "/assets/nature/flower_buttercup.png",
+    "width": 45,
+    "height": 50,
+    "anchorX": 22.5,
+    "anchorY": 49.0
+  },
+  {
+    "id": "flower_bluebell",
+    "category": "flower",
+    "src": "/assets/nature/flower_bluebell.png",
+    "width": 45,
+    "height": 57,
+    "anchorX": 22.5,
+    "anchorY": 56.0
+  },
+  {
+    "id": "flower_clover",
+    "category": "flower",
+    "src": "/assets/nature/flower_clover.png",
+    "width": 45,
+    "height": 54,
+    "anchorX": 22.5,
+    "anchorY": 53.0
+  },
+  {
+    "id": "flower_daisy_small",
+    "category": "flower",
+    "src": "/assets/nature/flower_daisy_small.png",
+    "width": 50,
+    "height": 52,
+    "anchorX": 25.0,
+    "anchorY": 51.0
+  },
+  {
+    "id": "grass_large",
+    "category": "grass",
+    "src": "/assets/nature/grass_large.png",
+    "width": 59,
+    "height": 60,
+    "anchorX": 29.5,
+    "anchorY": 59.0
+  },
+  {
+    "id": "grass_medium",
+    "category": "grass",
+    "src": "/assets/nature/grass_medium.png",
+    "width": 65,
+    "height": 49,
+    "anchorX": 32.5,
+    "anchorY": 48.0
+  },
+  {
+    "id": "grass_small",
+    "category": "grass",
+    "src": "/assets/nature/grass_small.png",
+    "width": 45,
+    "height": 33,
+    "anchorX": 22.5,
+    "anchorY": 32.0
+  },
+  {
+    "id": "branch_leafy",
+    "category": "branch",
+    "src": "/assets/nature/branch_leafy.png",
+    "width": 99,
+    "height": 74,
+    "anchorX": 49.5,
+    "anchorY": 73.0
+  },
+  {
+    "id": "branch_medium",
+    "category": "branch",
+    "src": "/assets/nature/branch_medium.png",
+    "width": 65,
+    "height": 70,
+    "anchorX": 32.5,
+    "anchorY": 69.0
+  },
+  {
+    "id": "branch_stick",
+    "category": "branch",
+    "src": "/assets/nature/branch_stick.png",
+    "width": 65,
+    "height": 62,
+    "anchorX": 32.5,
+    "anchorY": 61.0
+  },
+  {
+    "id": "branch_twig",
+    "category": "branch",
+    "src": "/assets/nature/branch_twig.png",
+    "width": 40,
+    "height": 39,
+    "anchorX": 20.0,
+    "anchorY": 38.0
+  },
+  {
+    "id": "branch_small",
+    "category": "branch",
+    "src": "/assets/nature/branch_small.png",
+    "width": 38,
+    "height": 28,
+    "anchorX": 19.0,
+    "anchorY": 27.0
+  },
+  {
+    "id": "log_mossy",
+    "category": "log",
+    "src": "/assets/nature/log_mossy.png",
+    "width": 79,
+    "height": 69,
+    "anchorX": 39.5,
+    "anchorY": 68.0
+  },
+  {
+    "id": "log_cut",
+    "category": "log",
+    "src": "/assets/nature/log_cut.png",
+    "width": 70,
+    "height": 51,
+    "anchorX": 35.0,
+    "anchorY": 50.0
+  },
+  {
+    "id": "log_slice",
+    "category": "log",
+    "src": "/assets/nature/log_slice.png",
+    "width": 40,
+    "height": 30,
+    "anchorX": 20.0,
+    "anchorY": 29.0
+  },
+  {
+    "id": "stump_mossy",
+    "category": "stump",
+    "src": "/assets/nature/stump_mossy.png",
+    "width": 50,
+    "height": 35,
+    "anchorX": 25.0,
+    "anchorY": 34.0
+  },
+  {
+    "id": "stump_small",
+    "category": "stump",
+    "src": "/assets/nature/stump_small.png",
+    "width": 40,
+    "height": 29,
+    "anchorX": 20.0,
+    "anchorY": 28.0
+  },
+  {
+    "id": "leaves_pile_large",
+    "category": "leaves_pile",
+    "src": "/assets/nature/leaves_pile_large.png",
+    "width": 104,
+    "height": 68,
+    "anchorX": 52.0,
+    "anchorY": 67.0
+  },
+  {
+    "id": "leaves_pile_medium",
+    "category": "leaves_pile",
+    "src": "/assets/nature/leaves_pile_medium.png",
+    "width": 80,
+    "height": 43,
+    "anchorX": 40.0,
+    "anchorY": 42.0
+  },
+  {
+    "id": "leaves_scatter",
+    "category": "leaves_pile",
+    "src": "/assets/nature/leaves_scatter.png",
+    "width": 50,
+    "height": 31,
+    "anchorX": 25.0,
+    "anchorY": 30.0
+  },
+  {
+    "id": "moss_rock_large",
+    "category": "moss",
+    "src": "/assets/nature/moss_rock_large.png",
+    "width": 114,
+    "height": 77,
+    "anchorX": 57.0,
+    "anchorY": 76.0
+  },
+  {
+    "id": "moss_rock_medium",
+    "category": "moss",
+    "src": "/assets/nature/moss_rock_medium.png",
+    "width": 75,
+    "height": 46,
+    "anchorX": 37.5,
+    "anchorY": 45.0
+  },
+  {
+    "id": "moss_mound",
+    "category": "moss",
+    "src": "/assets/nature/moss_mound.png",
+    "width": 48,
+    "height": 29,
+    "anchorX": 24.0,
+    "anchorY": 28.0
+  },
+  {
+    "id": "fern_large",
+    "category": "fern",
+    "src": "/assets/nature/fern_large.png",
+    "width": 63,
+    "height": 76,
+    "anchorX": 31.5,
+    "anchorY": 75.0
+  },
+  {
+    "id": "fern_medium",
+    "category": "fern",
+    "src": "/assets/nature/fern_medium.png",
+    "width": 50,
+    "height": 53,
+    "anchorX": 25.0,
+    "anchorY": 52.0
+  },
+  {
+    "id": "fern_small",
+    "category": "fern",
+    "src": "/assets/nature/fern_small.png",
+    "width": 40,
+    "height": 37,
+    "anchorX": 20.0,
+    "anchorY": 36.0
+  },
+  {
+    "id": "tall_grass_large",
+    "category": "tall_grass",
+    "src": "/assets/nature/tall_grass_large.png",
+    "width": 66,
+    "height": 90,
+    "anchorX": 33.0,
+    "anchorY": 89.0
+  },
+  {
+    "id": "tall_grass_medium",
+    "category": "tall_grass",
+    "src": "/assets/nature/tall_grass_medium.png",
+    "width": 55,
+    "height": 58,
+    "anchorX": 27.5,
+    "anchorY": 57.0
+  },
+  {
+    "id": "tall_grass_small",
+    "category": "tall_grass",
+    "src": "/assets/nature/tall_grass_small.png",
+    "width": 30,
+    "height": 31,
+    "anchorX": 15.0,
+    "anchorY": 30.0
+  },
+  {
+    "id": "pinecone",
+    "category": "misc",
+    "src": "/assets/nature/pinecone.png",
+    "width": 5,
+    "height": 30,
+    "anchorX": 2.5,
+    "anchorY": 29.0
+  },
+  {
+    "id": "sapling_pine",
+    "category": "misc",
+    "src": "/assets/nature/sapling_pine.png",
+    "width": 50,
+    "height": 57,
+    "anchorX": 25.0,
+    "anchorY": 56.0
+  },
+  {
+    "id": "feather",
+    "category": "misc",
+    "src": "/assets/nature/feather.png",
+    "width": 55,
+    "height": 72,
+    "anchorX": 27.5,
+    "anchorY": 71.0
+  },
+  {
+    "id": "pebble_cluster",
+    "category": "misc",
+    "src": "/assets/nature/pebble_cluster.png",
+    "width": 45,
+    "height": 43,
+    "anchorX": 22.5,
+    "anchorY": 42.0
+  },
+  {
+    "id": "acorn",
+    "category": "misc",
+    "src": "/assets/nature/acorn.png",
+    "width": 23,
+    "height": 28,
+    "anchorX": 11.5,
+    "anchorY": 27.0
+  }
+]

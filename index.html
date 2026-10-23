@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Humanity: The Life Simulator (God Sandbox)</title>
+  </head>
+  <body>
+    <div id="app">
+      <!-- 2D Canvas Viewport -->
+      <canvas id="game-canvas"></canvas>
+
+      <!-- Top God Mode Toolbar -->
+      <div id="god-bar-container"></div>
+
+      <!-- Right Omniscient Citizen Inspector -->
+      <div id="inspector-container" class="hidden"></div>
+
+      <!-- Right Building Architecture Inspector -->
+      <div id="building-inspector-container" class="hidden"></div>
+
+      <!-- Right Forest Tree & Nature Inspector -->
+      <div id="tree-inspector-container" class="hidden"></div>
+
+      <!-- Right Communal Bonfire Inspector -->
+      <div id="bonfire-inspector-container" class="hidden"></div>
+
+      <!-- Bottom Left Live Drama Chronicle -->
+      <div id="drama-feed-container"></div>
+
+      <!-- Center Gemini AI Brain Modal -->
+      <div id="ai-brain-modal-container" class="hidden"></div>
+
+      <!-- Hotkeys Possession Banner (Visible only while controlling an agent) -->
+      <div id="possession-banner" class="hidden">
+        <span>👁️ POSSESSING <strong id="possessed-name">CITIZEN</strong></span>
+        <span><span class="hotkey-tag">WASD</span> Walk</span>
+        <span><span class="hotkey-tag">SHIFT</span> Run</span>
+        <span><span class="hotkey-tag">C</span> Sit</span>
+        <span><span class="hotkey-tag">Z</span> Sleep</span>
+        <span><span class="hotkey-tag">E</span> Chat</span>
+        <span><span class="hotkey-tag">R</span> Flirt</span>
+        <span><span class="hotkey-tag">F</span> Fight</span>
+        <span><span class="hotkey-tag">ESC</span> Release</span>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

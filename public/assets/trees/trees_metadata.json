@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "name": "Small Tree",
+    "key": "small",
+    "src": "/assets/trees/tree_0.png",
+    "width": 115,
+    "height": 135,
+    "anchorX": 59.3,
+    "anchorY": 134.0
+  },
+  {
+    "id": 1,
+    "name": "Medium Tree",
+    "key": "medium",
+    "src": "/assets/trees/tree_1.png",
+    "width": 144,
+    "height": 166,
+    "anchorX": 74.8,
+    "anchorY": 165.0
+  },
+  {
+    "id": 2,
+    "name": "Large Tree",
+    "key": "large",
+    "src": "/assets/trees/tree_2.png",
+    "width": 167,
+    "height": 190,
+    "anchorX": 81.1,
+    "anchorY": 189.0
+  },
+  {
+    "id": 3,
+    "name": "Tall Slim Tree",
+    "key": "tall_slim",
+    "src": "/assets/trees/tree_3.png",
+    "width": 74,
+    "height": 185,
+    "anchorX": 37.2,
+    "anchorY": 184.0
+  },
+  {
+    "id": 4,
+    "name": "Pine Tree",
+    "key": "pine",
+    "src": "/assets/trees/tree_4.png",
+    "width": 144,
+    "height": 182,
+    "anchorX": 69.7,
+    "anchorY": 181.0
+  },
+  {
+    "id": 5,
+    "name": "Snow Pine",
+    "key": "snow_pine",
+    "src": "/assets/trees/tree_5.png",
+    "width": 140,
+    "height": 185,
+    "anchorX": 72.1,
+    "anchorY": 184.0
+  },
+  {
+    "id": 6,
+    "name": "Apple Tree",
+    "key": "apple",
+    "src": "/assets/trees/tree_6.png",
+    "width": 145,
+    "height": 165,
+    "anchorX": 74.3,
+    "anchorY": 164.0
+  },
+  {
+    "id": 7,
+    "name": "Orange Tree",
+    "key": "orange",
+    "src": "/assets/trees/tree_7.png",
+    "width": 147,
+    "height": 167,
+    "anchorX": 72.0,
+    "anchorY": 166.0
+  },
+  {
+    "id": 8,
+    "name": "Cherry Tree",
+    "key": "cherry",
+    "src": "/assets/trees/tree_8.png",
+    "width": 146,
+    "height": 172,
+    "anchorX": 68.4,
+    "anchorY": 171.0
+  },
+  {
+    "id": 9,
+    "name": "Autumn Tree",
+    "key": "autumn",
+    "src": "/assets/trees/tree_9.png",
+    "width": 149,
+    "height": 170,
+    "anchorX": 72.7,
+    "anchorY": 169.0
+  },
+  {
+    "id": 10,
+    "name": "Blooming Tree",
+    "key": "blooming",
+    "src": "/assets/trees/tree_10.png",
+    "width": 158,
+    "height": 172,
+    "anchorX": 76.9,
+    "anchorY": 171.0
+  },
+  {
+    "id": 11,
+    "name": "Palm Tree",
+    "key": "palm",
+    "src": "/assets/trees/tree_11.png",
+    "width": 142,
+    "height": 181,
+    "anchorX": 62.4,
+    "anchorY": 180.0
+  },
+  {
+    "id": 12,
+    "name": "Willow Tree",
+    "key": "willow",
+    "src": "/assets/trees/tree_12.png",
+    "width": 153,
+    "height": 181,
+    "anchorX": 73.1,
+    "anchorY": 180.0
+  },
+  {
+    "id": 13,
+    "name": "Birch Tree",
+    "key": "birch",
+    "src": "/assets/trees/tree_13.png",
+    "width": 128,
+    "height": 186,
+    "anchorX": 57.9,
+    "anchorY": 185.0
+  },
+  {
+    "id": 14,
+    "name": "Dead Tree",
+    "key": "dead",
+    "src": "/assets/trees/tree_14.png",
+    "width": 140,
+    "height": 179,
+    "anchorX": 67.5,
+    "anchorY": 178.0
+  },
+  {
+    "id": 15,
+    "name": "Rocky Tree",
+    "key": "rocky",
+    "src": "/assets/trees/tree_15.png",
+    "width": 157,
+    "height": 190,
+    "anchorX": 78.7,
+    "anchorY": 189.0
+  },
+  {
+    "id": 16,
+    "name": "Mangrove Tree",
+    "key": "mangrove",
+    "src": "/assets/trees/tree_16.png",
+    "width": 165,
+    "height": 172,
+    "anchorX": 77.8,
+    "anchorY": 171.0
+  },
+  {
+    "id": 17,
+    "name": "Bamboo Cluster",
+    "key": "bamboo",
+    "src": "/assets/trees/tree_17.png",
+    "width": 120,
+    "height": 183,
+    "anchorX": 61.1,
+    "anchorY": 182.0
+  }
+]
